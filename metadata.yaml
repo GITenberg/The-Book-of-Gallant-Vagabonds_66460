@@ -1,0 +1,25 @@
+_repo: The-Book-of-Gallant-Vagabonds_66460
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Beston, Henry
+    aliases:
+    - Beston, Henry B.
+    - Sheahan, Henry Edouard
+    birthdate: 1888
+    deathdate: 1968
+    gutenberg_agent_id: '4320'
+    url: http://www.gutenberg.org/2009/agents/4320
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Beston
+description: ''
+gutenberg_issued: '2021-10-03'
+identifiers:
+  gutenberg: '66460'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Book of Gallant Vagabonds
+url: http://www.gutenberg.org/ebooks/66460
